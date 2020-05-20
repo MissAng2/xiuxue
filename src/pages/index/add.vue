@@ -193,7 +193,6 @@ export default {
         // 上传附件内token值发生变化时触发
         onTokenChange(val){
             this.token=val;
-            // console.log(this.token);
         },
 
         // 保存草稿
