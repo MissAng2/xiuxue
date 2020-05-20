@@ -227,7 +227,6 @@ export default {
                 Toast("邮寄地址不可为空！");
                 return;
             }
-            // console.log("******"+this.XXXNType)
             // 存储数据 对应保存草稿接口的字段
             let newobj={
                 WID: '',
