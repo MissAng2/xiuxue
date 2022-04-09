@@ -16,7 +16,7 @@
         "bh-mint-ui2": "^1.1.0",
         "bh-mixin-sdk": "^0.2.50",
         "emap-mobile": "^1.1.10",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "vue": "^2.5.9",
         "vue-router": "^2.1.1"
     },
